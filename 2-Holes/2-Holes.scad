@@ -38,5 +38,5 @@ difference() {
     
     color("yellow")
         translate([0, 0, 0])
-            hexagon_wrench( 5.2, n_plate_thickness);
+            hexagon_wrench( 5.3, n_plate_thickness);
 }
