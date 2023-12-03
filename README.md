@@ -84,3 +84,27 @@ Doing M metric threads on 3D printing is challenging, if you need a M thread, th
   * In my experiment the added diameter is 1mm to 1.5mm
 
 </details>
+
+# [Lesson 4 - Can and Lid](3-Can-Lid)
+
+Make a round container with a wide 3D printed thread to close the lid. It's the use case for which I searched for a thread library.
+
+![](4-Can-Lid/4-Can-Lid.jpg)
+
+<details>
+  <summary>Click to expand</summary>
+
+* Can:
+  * Stack a thread on top of a cylinder
+  * Extrude a cylinder
+
+* Lid:
+  * Create a cylinder
+  * Extrude a thread
+
+* For the dimensions, take into account
+  * Wall thickness and roof, ceiling thickness
+  * Margin for the thread
+  * I need to make the height parametric still
+
+</details>
