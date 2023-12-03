@@ -85,7 +85,7 @@ Doing M metric threads on 3D printing is challenging, if you need a M thread, th
 
 </details>
 
-# [Lesson 4 - Can and Lid](3-Can-Lid)
+# [Lesson 4 - Can and Lid](4-Can-Lid)
 
 Make a round container with a wide 3D printed thread to close the lid. It's the use case for which I searched for a thread library.
 
@@ -108,3 +108,9 @@ Make a round container with a wide 3D printed thread to close the lid. It's the 
   * I need to make the height parametric still
 
 </details>
+
+# [Lesson 5 - Text](5-Text)
+
+![](5-Text/5-Text.jpg)
+
+Make a rounded rectangle and apply an embossed text and extrude a debossed text.
