@@ -82,7 +82,7 @@ n_nut_thickness = 5;
 //Margin to allow the threads on Nut and Bolt to mate
 n_thread_margin = 1.2;
 //Margin to allow the nut to fit inside the wrench
-n_wrench_margin = 0.3;
+n_wrench_margin = 0.2;
 
 //Distance between threads of the Nut
 n_distance = 14;

@@ -57,11 +57,13 @@ Learning how to extrude a 6.2mm hexagonal hole in a plate that can fit a standar
 
 </details>
 
-# [Lesson 3 - Threads, Bolts and Nuts](2-Holes)
+# [Lesson 3 - Threads, Bolts and Nuts](3-Threads-Bolts-Nuts)
 
 Learning how to thread a 3D printed part.
 
 Doing M metric threads on 3D printing is challenging, if you need a M thread, think about embedding a M threaded metal insert or nut in your print. Otherwise, do a 3D printed thread with a much wider pitch.
+
+![](3-Threads-Bolts-Nuts/3-Threads-Bolts-Nuts.jpg)
 
 <details>
   <summary>Click to expand</summary>
@@ -75,6 +77,8 @@ Doing M metric threads on 3D printing is challenging, if you need a M thread, th
 * Make a Nut by:
   * a hexagon for the nut
   * extrude a thread
+
+* A Wrench size d=10mm will need an hexagon diameter D=10mm *2 /sqrt(3) =11.55mm
 
 * Remember to make the nut thread ow wider diameter
   * In my experiment the added diameter is 1mm to 1.5mm
